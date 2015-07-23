@@ -1,0 +1,27 @@
+{
+  "name": "fs-ensure",
+  "main": "./fs-ensure.js",
+  "dependencies": {
+    "fs-ensure-link": "0.0.1",
+    "fs-ensure-symlink": "0.0.1"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggi/node-fs-ensure.git"
+  },
+  "keywords": [
+    "fs",
+    "ensure"
+  ],
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggi/node-fs-ensure/issues"
+  },
+  "homepage": "https://github.com/reggi/node-fs-ensure#readme",
+  "description": ""
+}
